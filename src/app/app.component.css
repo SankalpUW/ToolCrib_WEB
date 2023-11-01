@@ -1,0 +1,29 @@
+/* html { background-color: black; } */
+
+/* .center-div {
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2vh; /* Optional: Adjust this based on your layout requirements 
+}*/
+  
+  h1 {
+
+    text-align: center;
+    padding-top: 100px;
+
+    
+}
+.center-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .canvas-container {
+    max-height: 256px;
+    max-width: 512px;
+    overflow: scroll;
+  }
