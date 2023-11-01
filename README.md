@@ -1,0 +1,2 @@
+# KENOBI
+KENOBI (Kiosk for Equipment Navigation and Order-Based Inventory) is a system that aims to streamline the use of the Tool-Crib's resources by allowing authorized individuals to independently sign-out any parts they require to perform maintenance. It performs similarly to a self-checkout system you might find at a grocery store. The goal of this system is to improve inventory accuracy and workflow, especially when attendants are not present.
